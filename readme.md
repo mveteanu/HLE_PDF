@@ -10,6 +10,10 @@ Parquet → JSON → HTML → PDF
 
 Note: Some mathematical formulas may not be properly escaped or rendered.
 
+## Quick glimpse: HLE.PDF
+
+For a quick glimpse / download of all the questions, check out the file [](hle.pdf)
+
 ## Source
 
 The original Parquet file comes from the Humanity's Last Exam dataset, available at:
