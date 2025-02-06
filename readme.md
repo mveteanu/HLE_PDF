@@ -22,4 +22,4 @@ For a quick glimpse / download of all the questions, check out these links:
 The original Parquet file comes from the Humanity's Last Exam dataset, available at:
 
 - [https://lastexam.ai/](https://lastexam.ai/)
-- [https://huggingface.co/datasets/cais/hle](https://lastexam.ai/)
+- [https://huggingface.co/datasets/cais/hle](https://huggingface.co/datasets/cais/hle)
