@@ -12,7 +12,10 @@ Note: Some mathematical formulas may not be properly escaped or rendered.
 
 ## Quick glimpse
 
-For a quick glimpse / download of all the questions, check out the file [hle.pdf](hle.pdf)
+For a quick glimpse / download of all the questions, check out these links:
+
+- [Browse questions](hle.html)
+- [View / Download PDF](hle.pdf)
 
 ## Source
 
