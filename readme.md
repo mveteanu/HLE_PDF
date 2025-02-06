@@ -14,5 +14,5 @@ Note: Some mathematical formulas may not be properly escaped or rendered.
 
 The original Parquet file comes from the Humanity's Last Exam dataset, available at:
 
-https://lastexam.ai/
-https://huggingface.co/datasets/cais/hle
+- https://lastexam.ai/
+- https://huggingface.co/datasets/cais/hle
