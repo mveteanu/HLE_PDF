@@ -23,3 +23,9 @@ The original Parquet file comes from the Humanity's Last Exam dataset, available
 
 - [https://lastexam.ai/](https://lastexam.ai/)
 - [https://huggingface.co/datasets/cais/hle](https://huggingface.co/datasets/cais/hle)
+
+## Note: HLE moved to private repo
+
+The PDF and HTML renditions of the HLE dataset have been made private.
+
+This was done to prevent access by automated crawlers and to avoid any potential leakage into future training data.
